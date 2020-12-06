@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schools>
+   <school>
+      <OGRN>1127799015277</OGRN>
+      <address>город Москва, улица Юности, дом 5</address>
+      <code>59</code>
+      <common-name>МосГу</common-name>
+      <id>639894029</id>
+      <state-accreditation-date>30.04.2019</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1037700246451</OGRN>
+      <address>город Москва, Вадковский переулок, дом 3А, строение 1</address>
+      <code>18</code>
+      <common-name>СТАНКИН</common-name>
+      <id>639894030</id>
+      <state-accreditation-date>31.03.2020</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1037739313700</OGRN>
+      <address>город Москва, улица Вильгельма Пика, дом 3</address>
+      <code>51</code>
+      <common-name>ВГИК</common-name>
+      <id>639894031</id>
+      <state-accreditation-date>03.03.2016</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1027700162676</OGRN>
+      <address>город Москва, Азовская улица, дом 2, корпус 1</address>
+      <code>52</code>
+      <common-name>РПА Минюста</common-name>
+      <id>639894032</id>
+      <state-accreditation-date>09.11.2015</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1027700136573</OGRN>
+      <address>город Москва, Товарищеский переулок, дом 30, строение 1</address>
+      <code>60</code>
+      <common-name>МГАХИ им. Сурикова</common-name>
+      <id>639894033</id>
+      <state-accreditation-date>14.11.2018</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1027739017976</OGRN>
+      <address>город Москва, Рязанский проспект, дом 99, строение 1</address>
+      <code>19</code>
+      <common-name>ГУУ</common-name>
+      <id>639894034</id>
+      <state-accreditation-date>15.05.2018</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1027700215344</OGRN>
+      <address>город Москва, Малая Пироговская улица, дом 1, строение 1</address>
+      <code>53</code>
+      <common-name>МПГУ</common-name>
+      <id>639894036</id>
+      <state-accreditation-date>15.04.2016</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1037739068630</OGRN>
+      <address>город Москва, Мароновский переулок, дом 26</address>
+      <code>21</code>
+      <common-name>ГАУГН</common-name>
+      <id>639894037</id>
+      <state-accreditation-date>24.07.2017</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1037739366477</OGRN>
+      <address>город Москва, Каширское шоссе, дом 31</address>
+      <code>22</code>
+      <common-name>МИФИ</common-name>
+      <id>639894038</id>
+      <state-accreditation-date>01.07.2016</state-accreditation-date>
+   </school>
+   <school>
+      <OGRN>1027739212324</OGRN>
+      <address>город Москва, Тверской бульвар, дом 25, строение 1</address>
+      <code>62</code>
+      <common-name>Литературный институт им. Горького</common-name>
+      <id>639894039</id>
+      <state-accreditation-date>20.06.2018</state-accreditation-date>
+   </school>
+</schools>
